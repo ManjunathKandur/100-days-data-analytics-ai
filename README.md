@@ -30,10 +30,8 @@ This repository documents my 100-day journey of learning:
 
 ## Progress Tracker
 
-- [x] Day 1 - Environment Setup & Introduction
-- [ ] Day 2 - Python Basics
-- [ ] Day 3 - Variables & Data Types
-- [ ] Day 4 - Operators & Input/Output
+| Day 1 | Python Introduction | ✅ Completed |
+| Day 2 | Python Basics & Operators | ✅ Completed |Output
 
 ## Repository Structure
 
